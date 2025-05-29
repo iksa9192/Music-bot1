@@ -22,4 +22,8 @@
         "play-dl": "^1.9.6",
         "translate": "^3.0.0"
     }
+    "resolutions": {
+  "rimraf": "^4.0.0",
+  "glob": "^9.0.0"
+}
 }
